@@ -1,0 +1,11 @@
+{
+    "DVO": {
+        "api_elev": 9100.0, 
+        "delta_api": 205.64276000000064, 
+        "latitiude": "40.609141", 
+        "longitude": "-111.497424", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8894.3572399999994, 
+        "stid": "DVO"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "CCHMT": {
+        "api_elev": 4700.0, 
+        "delta_api": 306.95524000000023, 
+        "latitiude": "45.60889", 
+        "longitude": "-109.38472", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4393.0447599999998, 
+        "stid": "CCHMT"
+    }, 
+    "KTGMT": {
+        "api_elev": 4415.0, 
+        "delta_api": 290.98412000000008, 
+        "latitiude": "45.82722", 
+        "longitude": "-109.08889", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4124.0158799999999, 
+        "stid": "KTGMT"
+    }, 
+    "SWZMT": {
+        "api_elev": 4625.0, 
+        "delta_api": 464.89487999999983, 
+        "latitiude": "46.04417", 
+        "longitude": "-109.03417", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4160.1051200000002, 
+        "stid": "SWZMT"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "GGWSH": {
+        "api_elev": 3120.0, 
+        "delta_api": 478.92380000000003, 
+        "latitiude": "48.02", 
+        "longitude": "-106.29", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2641.0762, 
+        "stid": "GGWSH"
+    }, 
+    "GGWYI": {
+        "api_elev": 2349.0, 
+        "delta_api": 121.30963999999994, 
+        "latitiude": "47.92", 
+        "longitude": "-106.46", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2227.6903600000001, 
+        "stid": "GGWYI"
+    }
+}

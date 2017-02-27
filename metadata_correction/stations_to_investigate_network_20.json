@@ -1,0 +1,20 @@
+{
+    "KCC11": {
+        "api_elev": 5460.0, 
+        "delta_api": 154.88172000000031, 
+        "latitiude": "40.7158", 
+        "longitude": "-112.2069", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5305.1182799999997, 
+        "stid": "KCC11"
+    }, 
+    "KCC12": {
+        "api_elev": 5885.0, 
+        "delta_api": 100.8790799999997, 
+        "latitiude": "40.7095", 
+        "longitude": "-112.1581", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5784.1209200000003, 
+        "stid": "KCC12"
+    }
+}

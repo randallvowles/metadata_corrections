@@ -1,0 +1,11 @@
+{
+    "K92S": {
+        "api_elev": 187.0, 
+        "delta_api": 187.0, 
+        "latitiude": "42.83333", 
+        "longitude": "-124.56667", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "K92S"
+    }
+}

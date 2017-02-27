@@ -1,0 +1,11 @@
+{
+    "CSN02": {
+        "api_elev": 5550.0, 
+        "delta_api": 100.52476000000024, 
+        "latitiude": "36.66667", 
+        "longitude": "-108.43333", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5449.4752399999998, 
+        "stid": "CSN02"
+    }
+}

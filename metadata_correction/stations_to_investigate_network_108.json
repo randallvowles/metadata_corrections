@@ -1,0 +1,38 @@
+{
+    "CT41": {
+        "api_elev": 398.0, 
+        "delta_api": 260.20472000000001, 
+        "latitiude": "41.21731", 
+        "longitude": "-73.25539", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 137.79527999999999, 
+        "stid": "CT41"
+    }, 
+    "KHOC": {
+        "api_elev": 3206.0, 
+        "delta_api": 2267.67976, 
+        "latitiude": "39.18876", 
+        "longitude": "-83.53879", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 938.32024000000001, 
+        "stid": "KHOC"
+    }, 
+    "KOLE": {
+        "api_elev": 2135.0, 
+        "delta_api": 110.72172, 
+        "latitiude": "42.23333", 
+        "longitude": "-78.36667", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2024.27828, 
+        "stid": "KOLE"
+    }, 
+    "NK78": {
+        "api_elev": 592.0, 
+        "delta_api": 368.90287999999998, 
+        "latitiude": "41.18898", 
+        "longitude": "-73.86791", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 223.09711999999999, 
+        "stid": "NK78"
+    }
+}

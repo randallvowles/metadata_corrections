@@ -1,0 +1,20 @@
+{
+    "GAC": {
+        "api_elev": 9961.0, 
+        "delta_api": 735.27792000000045, 
+        "latitiude": "40.5682\t", 
+        "longitude": "-111.6575", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9225.7220799999996, 
+        "stid": "GAC"
+    }, 
+    "HDP": {
+        "api_elev": 10994.0, 
+        "delta_api": 173.78967999999986, 
+        "latitiude": "40.5608", 
+        "longitude": "-111.6442", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 10820.21032, 
+        "stid": "HDP"
+    }
+}

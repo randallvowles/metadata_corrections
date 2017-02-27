@@ -1,0 +1,110 @@
+{
+    "ABAUT": {
+        "api_elev": 11330.0, 
+        "delta_api": 145.61643999999978, 
+        "latitiude": "37.84107", 
+        "longitude": "-109.46188", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 11184.38356, 
+        "stid": "ABAUT"
+    }, 
+    "C99": {
+        "api_elev": 9990.0, 
+        "delta_api": 275.43275999999969, 
+        "latitiude": "40.659", 
+        "longitude": "-111.594", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9714.5672400000003, 
+        "stid": "C99"
+    }, 
+    "CRM": {
+        "api_elev": 9660.0, 
+        "delta_api": 171.81071999999949, 
+        "latitiude": "40.32420", 
+        "longitude": "-111.58092", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9488.1892800000005, 
+        "stid": "CRM"
+    }, 
+    "LDS1": {
+        "api_elev": 4757.0, 
+        "delta_api": 331.14684000000034, 
+        "latitiude": "40.771", 
+        "longitude": "-111.889", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4425.8531599999997, 
+        "stid": "LDS1"
+    }, 
+    "MFP": {
+        "api_elev": 11004.0, 
+        "delta_api": 131.29623999999967, 
+        "latitiude": "40.8100", 
+        "longitude": "-110.9537", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 10872.70376, 
+        "stid": "MFP"
+    }, 
+    "PRP": {
+        "api_elev": 6926.0, 
+        "delta_api": 449.62183999999979, 
+        "latitiude": "41.2575", 
+        "longitude": "-112.4398", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6476.3781600000002, 
+        "stid": "PRP"
+    }, 
+    "SB2": {
+        "api_elev": 8999.0, 
+        "delta_api": 127.60864000000038, 
+        "latitiude": "41.1856", 
+        "longitude": "-111.8696", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8871.3913599999996, 
+        "stid": "SB2"
+    }, 
+    "SBB": {
+        "api_elev": 9301.0, 
+        "delta_api": 199.94983999999931, 
+        "latitiude": "41.2052", 
+        "longitude": "-111.8829", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9101.0501600000007, 
+        "stid": "SBB"
+    }, 
+    "SNZ": {
+        "api_elev": 4760.0, 
+        "delta_api": 193.07071999999971, 
+        "latitiude": "40.8754", 
+        "longitude": "-111.8716", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4566.9292800000003, 
+        "stid": "SNZ"
+    }, 
+    "SVB1H": {
+        "api_elev": 9010.0, 
+        "delta_api": 102.51939999999922, 
+        "latitiude": "43.6612", 
+        "longitude": "-114.4021", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8907.4806000000008, 
+        "stid": "SVB1H"
+    }, 
+    "SVSID": {
+        "api_elev": 9010.0, 
+        "delta_api": 460.13096000000041, 
+        "latitiude": "43.6612", 
+        "longitude": "-114.4121", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8549.8690399999996, 
+        "stid": "SVSID"
+    }, 
+    "WCRUT": {
+        "api_elev": 8000.0, 
+        "delta_api": 286.7451600000004, 
+        "latitiude": "40.5467", 
+        "longitude": "-111.3214", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 7713.2548399999996, 
+        "stid": "WCRUT"
+    }
+}

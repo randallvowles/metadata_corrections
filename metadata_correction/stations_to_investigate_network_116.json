@@ -1,0 +1,11 @@
+{
+    "RQSPW": {
+        "api_elev": 6000.0, 
+        "delta_api": 307.74259999999958, 
+        "latitiude": "47.07", 
+        "longitude": "-121.08", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5692.2574000000004, 
+        "stid": "RQSPW"
+    }
+}

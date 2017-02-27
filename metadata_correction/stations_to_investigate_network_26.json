@@ -1,0 +1,38 @@
+{
+    "PERR": {
+        "api_elev": 4501.0, 
+        "delta_api": 144.04448000000048, 
+        "latitiude": "41.45", 
+        "longitude": "-112.04", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4356.9555199999995, 
+        "stid": "PERR"
+    }, 
+    "SILP": {
+        "api_elev": 4400.0, 
+        "delta_api": 180.83975999999984, 
+        "latitiude": "40.85", 
+        "longitude": "-113.85", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4219.1602400000002, 
+        "stid": "SILP"
+    }, 
+    "SUNP": {
+        "api_elev": 2887.0, 
+        "delta_api": 367.3148799999999, 
+        "latitiude": "43.59", 
+        "longitude": "-116.72", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2519.6851200000001, 
+        "stid": "SUNP"
+    }, 
+    "UKAYS": {
+        "api_elev": 4501.0, 
+        "delta_api": 117.79776000000038, 
+        "latitiude": "41.02", 
+        "longitude": "-111.93", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4383.2022399999996, 
+        "stid": "UKAYS"
+    }
+}

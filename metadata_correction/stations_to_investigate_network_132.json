@@ -1,0 +1,20 @@
+{
+    "VTGUI": {
+        "api_elev": 633.0, 
+        "delta_api": 226.17583999999999, 
+        "latitiude": "42.81266", 
+        "longitude": "-72.56772", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 406.82416000000001, 
+        "stid": "VTGUI"
+    }, 
+    "VTWOO": {
+        "api_elev": 2395.0, 
+        "delta_api": 452.74271999999996, 
+        "latitiude": "42.87799", 
+        "longitude": "-73.09439", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1942.25728, 
+        "stid": "VTWOO"
+    }
+}

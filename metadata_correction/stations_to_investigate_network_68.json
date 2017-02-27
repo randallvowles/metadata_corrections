@@ -1,0 +1,20 @@
+{
+    "GDNWL": {
+        "api_elev": 7400.0, 
+        "delta_api": 1123.7530800000004, 
+        "latitiude": "48.74167", 
+        "longitude": "-113.73725", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6276.2469199999996, 
+        "stid": "GDNWL"
+    }, 
+    "LGPVC": {
+        "api_elev": 6775.0, 
+        "delta_api": 144.42236000000048, 
+        "latitiude": "48.6949", 
+        "longitude": "-113.7169", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6630.5776399999995, 
+        "stid": "LGPVC"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "WPSPT": {
+        "api_elev": 9496.0, 
+        "delta_api": 204.66112000000066, 
+        "latitiude": "42.9678", 
+        "longitude": "-109.7471", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9291.3388799999993, 
+        "stid": "WPSPT"
+    }
+}

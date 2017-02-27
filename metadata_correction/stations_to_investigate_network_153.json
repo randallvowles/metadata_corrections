@@ -1,0 +1,38 @@
+{
+    "FWP": {
+        "api_elev": 9176.0, 
+        "delta_api": 219.30680000000029, 
+        "latitiude": "40.659", 
+        "longitude": "-112.202", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8956.6931999999997, 
+        "stid": "FWP"
+    }, 
+    "SVB": {
+        "api_elev": 9010.0, 
+        "delta_api": 102.51939999999922, 
+        "latitiude": "43.6612", 
+        "longitude": "-114.4021", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8907.4806000000008, 
+        "stid": "SVB"
+    }, 
+    "SVT": {
+        "api_elev": 10079.0, 
+        "delta_api": 177.42488000000048, 
+        "latitiude": "43.8366", 
+        "longitude": "-114.7104", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9901.5751199999995, 
+        "stid": "SVT"
+    }, 
+    "TPC": {
+        "api_elev": 7999.0, 
+        "delta_api": 1535.7452000000003, 
+        "latitiude": "40.4406", 
+        "longitude": "-111.7063", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6463.2547999999997, 
+        "stid": "TPC"
+    }
+}

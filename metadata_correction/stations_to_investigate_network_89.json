@@ -1,0 +1,11 @@
+{
+    "ODE08": {
+        "api_elev": 495.0, 
+        "delta_api": 160.35432000000003, 
+        "latitiude": "44.81029", 
+        "longitude": "-122.915085", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 334.64567999999997, 
+        "stid": "ODE08"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "BHBLN": {
+        "api_elev": 6299.0, 
+        "delta_api": 744.53787999999986, 
+        "latitiude": "50.7992", 
+        "longitude": "-122.7453", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5554.4621200000001, 
+        "stid": "BHBLN"
+    }, 
+    "BHCHW": {
+        "api_elev": 4856.0, 
+        "delta_api": 354.6875200000004, 
+        "latitiude": "56.6369", 
+        "longitude": "-122.7789", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4501.3124799999996, 
+        "stid": "BHCHW"
+    }, 
+    "BHCLW": {
+        "api_elev": 410.0, 
+        "delta_api": 196.74539999999999, 
+        "latitiude": "49.7878", 
+        "longitude": "-123.4203", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 213.25460000000001, 
+        "stid": "BHCLW"
+    }, 
+    "BHCMU": {
+        "api_elev": 2887.0, 
+        "delta_api": 934.90020000000004, 
+        "latitiude": "50.1222", 
+        "longitude": "-123.1333", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1952.0998, 
+        "stid": "BHCMU"
+    }, 
+    "BHCSC": {
+        "api_elev": 4150.0, 
+        "delta_api": 1941.9946799999998, 
+        "latitiude": "50.7214", 
+        "longitude": "-118.1006", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2208.0053200000002, 
+        "stid": "BHCSC"
+    }, 
+    "BHCSR": {
+        "api_elev": 4216.0, 
+        "delta_api": 433.19147999999996, 
+        "latitiude": "50.7100", 
+        "longitude": "-118.1100", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3782.80852, 
+        "stid": "BHCSR"
+    }, 
+    "BHDCN": {
+        "api_elev": 1903.0, 
+        "delta_api": 164.15480000000002, 
+        "latitiude": "50.2550", 
+        "longitude": "-116.9483", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1738.8452, 
+        "stid": "BHDCN"
+    }, 
+    "BHERC": {
+        "api_elev": 919.0, 
+        "delta_api": 246.42780000000005, 
+        "latitiude": "49.6053", 
+        "longitude": "-125.2881", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 672.57219999999995, 
+        "stid": "BHERC"
+    }, 
+    "BHKWA": {
+        "api_elev": 5098.0, 
+        "delta_api": 1590.7820400000001, 
+        "latitiude": "   57.6233", 
+        "longitude": " -125.0731", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3507.2179599999999, 
+        "stid": "BHKWA"
+    }, 
+    "BHLJU": {
+        "api_elev": 6001.0, 
+        "delta_api": 200.47487999999976, 
+        "latitiude": "50.8594", 
+        "longitude": "-123.1836", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5800.5251200000002, 
+        "stid": "BHLJU"
+    }, 
+    "BHMNC": {
+        "api_elev": 5085.0, 
+        "delta_api": 2463.6088399999999, 
+        "latitiude": "52.1828", 
+        "longitude": "-119.3214", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2621.3911600000001, 
+        "stid": "BHMNC"
+    }, 
+    "BHMTR": {
+        "api_elev": 6004.0, 
+        "delta_api": 1519.0917200000004, 
+        "latitiude": "51.0361", 
+        "longitude": "-118.1444", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4484.9082799999996, 
+        "stid": "BHMTR"
+    }, 
+    "BHNTY": {
+        "api_elev": 6460.0, 
+        "delta_api": 2024.3043200000002, 
+        "latitiude": "51.1475", 
+        "longitude": "-122.7939", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4435.6956799999998, 
+        "stid": "BHNTY"
+    }, 
+    "BHPDY": {
+        "api_elev": 4593.0, 
+        "delta_api": 659.27284000000009, 
+        "latitiude": "53.1667", 
+        "longitude": "-126.8667", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3933.7271599999999, 
+        "stid": "BHPDY"
+    }, 
+    "BHPNK": {
+        "api_elev": 3950.0, 
+        "delta_api": 255.77415999999994, 
+        "latitiude": "   57.0019", 
+        "longitude": " -122.3536", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3694.2258400000001, 
+        "stid": "BHPNK"
+    }, 
+    "BHSTA": {
+        "api_elev": 1083.0, 
+        "delta_api": 426.83199999999999, 
+        "latitiude": "49.5561", 
+        "longitude": "-122.3219", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 656.16800000000001, 
+        "stid": "BHSTA"
+    }, 
+    "BHWLA": {
+        "api_elev": 4856.0, 
+        "delta_api": 111.90535999999975, 
+        "latitiude": "49.2333", 
+        "longitude": "-121.5667", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4744.0946400000003, 
+        "stid": "BHWLA"
+    }, 
+    "BHWON": {
+        "api_elev": 2986.0, 
+        "delta_api": 741.90544, 
+        "latitiude": "   56.7292", 
+        "longitude": " -121.8042", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2244.09456, 
+        "stid": "BHWON"
+    }
+}

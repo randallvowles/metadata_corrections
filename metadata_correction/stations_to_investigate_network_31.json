@@ -1,0 +1,29 @@
+{
+    "LML": {
+        "api_elev": 1099.0, 
+        "delta_api": 1072.7532799999999, 
+        "latitiude": "36.95", 
+        "longitude": "-122.07", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 26.24672, 
+        "stid": "LML"
+    }, 
+    "PCP": {
+        "api_elev": 1489.0, 
+        "delta_api": 104.48551999999995, 
+        "latitiude": "37.07", 
+        "longitude": "-121.22", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1384.51448, 
+        "stid": "PCP"
+    }, 
+    "RMD": {
+        "api_elev": 364.0, 
+        "delta_api": 344.31495999999999, 
+        "latitiude": "37.95", 
+        "longitude": "-122.4", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 19.685040000000001, 
+        "stid": "RMD"
+    }
+}

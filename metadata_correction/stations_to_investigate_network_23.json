@@ -1,0 +1,38 @@
+{
+    "CBEA3": {
+        "api_elev": 5520.0, 
+        "delta_api": 132.86071999999967, 
+        "latitiude": "34.12111", 
+        "longitude": "-110.41694", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5387.1392800000003, 
+        "stid": "CBEA3"
+    }, 
+    "OVGA3": {
+        "api_elev": 7200.0, 
+        "delta_api": 1665.2229200000002, 
+        "latitiude": "34.15722", 
+        "longitude": "-110.51111", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5534.7770799999998, 
+        "stid": "OVGA3"
+    }, 
+    "SOMC2": {
+        "api_elev": 6280.0, 
+        "delta_api": 167.79507999999987, 
+        "latitiude": "38.92583", 
+        "longitude": "-107.43361", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6112.2049200000001, 
+        "stid": "SOMC2"
+    }, 
+    "SOWA3": {
+        "api_elev": 5600.0, 
+        "delta_api": 117.71636000000035, 
+        "latitiude": "34.05833", 
+        "longitude": "-110.21306", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5482.2836399999997, 
+        "stid": "SOWA3"
+    }
+}

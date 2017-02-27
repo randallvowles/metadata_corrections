@@ -1,0 +1,74 @@
+{
+    "ODT06": {
+        "api_elev": 100.0, 
+        "delta_api": 100.0, 
+        "latitiude": "45.62139", 
+        "longitude": "-122.67320", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "ODT06"
+    }, 
+    "ODT07": {
+        "api_elev": 180.0, 
+        "delta_api": 170.15747999999999, 
+        "latitiude": "45.57524", 
+        "longitude": "-122.54550", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9.8425200000000004, 
+        "stid": "ODT07"
+    }, 
+    "ODT08": {
+        "api_elev": 180.0, 
+        "delta_api": 170.15747999999999, 
+        "latitiude": "45.59142", 
+        "longitude": "-122.54716", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9.8425200000000004, 
+        "stid": "ODT08"
+    }, 
+    "ODT10": {
+        "api_elev": 270.0, 
+        "delta_api": 253.5958, 
+        "latitiude": "45.53685", 
+        "longitude": "-122.68445", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 16.404199999999999, 
+        "stid": "ODT10"
+    }, 
+    "ODT11": {
+        "api_elev": 270.0, 
+        "delta_api": 253.5958, 
+        "latitiude": "45.53913", 
+        "longitude": "-122.68130", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 16.404199999999999, 
+        "stid": "ODT11"
+    }, 
+    "ODT60": {
+        "api_elev": 3000.0, 
+        "delta_api": 109.57996000000003, 
+        "latitiude": "42.39180", 
+        "longitude": "-122.48575", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2890.42004, 
+        "stid": "ODT60"
+    }, 
+    "ODT65": {
+        "api_elev": 120.0, 
+        "delta_api": 120.0, 
+        "latitiude": "44.62280", 
+        "longitude": "-124.05730", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "ODT65"
+    }, 
+    "ODT76": {
+        "api_elev": 354.0, 
+        "delta_api": 354.0, 
+        "latitiude": "46.19193", 
+        "longitude": "-123.85040", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "ODT76"
+    }
+}

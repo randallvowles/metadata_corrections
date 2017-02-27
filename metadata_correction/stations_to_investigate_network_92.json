@@ -1,0 +1,20 @@
+{
+    "MITW1": {
+        "api_elev": 3600.0, 
+        "delta_api": 443.83192000000008, 
+        "latitiude": "46.0333", 
+        "longitude": "-122.1667", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3156.1680799999999, 
+        "stid": "MITW1"
+    }, 
+    "SPDW1": {
+        "api_elev": 4560.0, 
+        "delta_api": 111.18095999999969, 
+        "latitiude": "46.251", 
+        "longitude": "-122.3414", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4448.8190400000003, 
+        "stid": "SPDW1"
+    }
+}

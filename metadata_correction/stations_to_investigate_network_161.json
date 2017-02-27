@@ -1,0 +1,11 @@
+{
+    "MA013": {
+        "api_elev": 311.0, 
+        "delta_api": 107.58792, 
+        "latitiude": "42.59848", 
+        "longitude": "-72.49810", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 203.41208, 
+        "stid": "MA013"
+    }
+}

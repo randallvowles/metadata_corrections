@@ -1,0 +1,11 @@
+{
+    "PSLC1": {
+        "api_elev": 523.0, 
+        "delta_api": 191.63515999999998, 
+        "latitiude": "35.17670", 
+        "longitude": "-120.76000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 331.36484000000002, 
+        "stid": "PSLC1"
+    }
+}

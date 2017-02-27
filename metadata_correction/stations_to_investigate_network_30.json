@@ -1,0 +1,20 @@
+{
+    "CLR12": {
+        "api_elev": 2193.0, 
+        "delta_api": 1041.42516, 
+        "latitiude": " 35.20649", 
+        "longitude": "-116.00092", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1151.57484, 
+        "stid": "CLR12"
+    }, 
+    "CLR23": {
+        "api_elev": 4764.0, 
+        "delta_api": 2332.8975599999999, 
+        "latitiude": " 35.36389", 
+        "longitude": "-116.54786", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2431.1024400000001, 
+        "stid": "CLR23"
+    }
+}

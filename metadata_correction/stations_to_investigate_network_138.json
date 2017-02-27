@@ -1,0 +1,20 @@
+{
+    "FG005": {
+        "api_elev": 4500.0, 
+        "delta_api": 113.51692000000003, 
+        "latitiude": "41.0210", 
+        "longitude": "-111.9300", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4386.48308, 
+        "stid": "FG005"
+    }, 
+    "FG007": {
+        "api_elev": 4356.0, 
+        "delta_api": 149.96312000000034, 
+        "latitiude": "41.5000", 
+        "longitude": "-112.0000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4206.0368799999997, 
+        "stid": "FG007"
+    }
+}

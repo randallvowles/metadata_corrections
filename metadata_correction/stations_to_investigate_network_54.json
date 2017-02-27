@@ -1,0 +1,29 @@
+{
+    "MWQJD": {
+        "api_elev": 3701.0, 
+        "delta_api": 607.16787999999997, 
+        "latitiude": " 44.42", 
+        "longitude": "-118.94", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 3093.83212, 
+        "stid": "MWQJD"
+    }, 
+    "MWQTG": {
+        "api_elev": 2398.0, 
+        "delta_api": 101.41199999999981, 
+        "latitiude": "45.2182", 
+        "longitude": "-121.3966", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2296.5880000000002, 
+        "stid": "MWQTG"
+    }, 
+    "MWQWO": {
+        "api_elev": 1299.0, 
+        "delta_api": 127.74011999999993, 
+        "latitiude": "45.61", 
+        "longitude": "-120.72", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1171.2598800000001, 
+        "stid": "MWQWO"
+    }
+}

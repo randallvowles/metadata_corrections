@@ -1,0 +1,83 @@
+{
+    "CO015": {
+        "api_elev": 5318.0, 
+        "delta_api": 101.46439999999984, 
+        "latitiude": "39.77436", 
+        "longitude": "-104.9975", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5216.5356000000002, 
+        "stid": "CO015"
+    }, 
+    "CO017": {
+        "api_elev": 5902.0, 
+        "delta_api": 183.4958800000004, 
+        "latitiude": "39.75208", 
+        "longitude": "-105.21620", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5718.5041199999996, 
+        "stid": "CO017"
+    }, 
+    "CO018": {
+        "api_elev": 5577.0, 
+        "delta_api": 347.34104000000025, 
+        "latitiude": "39.98500", 
+        "longitude": "-105.09690", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5229.6589599999998, 
+        "stid": "CO018"
+    }, 
+    "CO039": {
+        "api_elev": 5364.0, 
+        "delta_api": 856.1258399999997, 
+        "latitiude": "40.24850", 
+        "longitude": "-104.03756", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4507.8741600000003, 
+        "stid": "CO039"
+    }, 
+    "CO061": {
+        "api_elev": 6453.0, 
+        "delta_api": 199.71896000000015, 
+        "latitiude": "38.84684", 
+        "longitude": "-104.66190", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6253.2810399999998, 
+        "stid": "CO061"
+    }, 
+    "CO063": {
+        "api_elev": 7241.0, 
+        "delta_api": 134.70056000000022, 
+        "latitiude": "39.10000", 
+        "longitude": "-104.85500", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 7106.2994399999998, 
+        "stid": "CO063"
+    }, 
+    "CO064": {
+        "api_elev": 6339.0, 
+        "delta_api": 118.52736000000004, 
+        "latitiude": "38.89500", 
+        "longitude": "-104.83000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6220.47264, 
+        "stid": "CO064"
+    }, 
+    "CO079": {
+        "api_elev": 6171.0, 
+        "delta_api": 121.13104000000021, 
+        "latitiude": "38.84050", 
+        "longitude": "-104.85890", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6049.8689599999998, 
+        "stid": "CO079"
+    }, 
+    "CO082": {
+        "api_elev": 6781.0, 
+        "delta_api": 101.20975999999973, 
+        "latitiude": "38.93020", 
+        "longitude": "-104.86460", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6679.7902400000003, 
+        "stid": "CO082"
+    }
+}

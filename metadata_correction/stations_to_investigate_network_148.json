@@ -1,0 +1,11 @@
+{
+    "GRHM": {
+        "api_elev": 513.0, 
+        "delta_api": 119.29919999999998, 
+        "latitiude": "37.82107", 
+        "longitude": "-87.50874", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 393.70080000000002, 
+        "stid": "GRHM"
+    }
+}

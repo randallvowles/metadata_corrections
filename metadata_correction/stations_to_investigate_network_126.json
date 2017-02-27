@@ -1,0 +1,11 @@
+{
+    "SCR": {
+        "api_elev": 5643.0, 
+        "delta_api": 196.80559999999969, 
+        "latitiude": "43.711050", 
+        "longitude": "-116.099120", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5446.1944000000003, 
+        "stid": "SCR"
+    }
+}

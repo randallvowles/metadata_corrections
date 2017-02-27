@@ -1,0 +1,20 @@
+{
+    "W0007": {
+        "api_elev": 4774.0, 
+        "delta_api": 256.28332000000046, 
+        "latitiude": "40.706", 
+        "longitude": "-111.838", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4517.7166799999995, 
+        "stid": "W0007"
+    }, 
+    "W0011": {
+        "api_elev": 4957.0, 
+        "delta_api": 298.20719999999983, 
+        "latitiude": "40.315", 
+        "longitude": "-111.726", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4658.7928000000002, 
+        "stid": "W0011"
+    }
+}

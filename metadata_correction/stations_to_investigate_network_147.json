@@ -1,0 +1,74 @@
+{
+    "JECA2": {
+        "api_elev": 2325.0, 
+        "delta_api": 1888.6482799999999, 
+        "latitiude": "58.26162", 
+        "longitude": "-134.51080", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 436.35172, 
+        "stid": "JECA2"
+    }, 
+    "JPDA2": {
+        "api_elev": 490.0, 
+        "delta_api": 490.0, 
+        "latitiude": "58.36563", 
+        "longitude": "-134.63460", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "JPDA2"
+    }, 
+    "JSMA2": {
+        "api_elev": 3540.0, 
+        "delta_api": 3339.8687599999998, 
+        "latitiude": "58.28670", 
+        "longitude": "-134.26440", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 200.13123999999999, 
+        "stid": "JSMA2"
+    }, 
+    "KMRA2": {
+        "api_elev": 2283.0, 
+        "delta_api": 2283.0, 
+        "latitiude": "58.84580", 
+        "longitude": "-135.06148", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "KMRA2"
+    }, 
+    "KMVA2": {
+        "api_elev": 971.0, 
+        "delta_api": 971.0, 
+        "latitiude": "58.84510", 
+        "longitude": "-135.05014", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "KMVA2"
+    }, 
+    "MJWA2": {
+        "api_elev": 2444.0, 
+        "delta_api": 2306.2047200000002, 
+        "latitiude": "58.32040", 
+        "longitude": "-134.43100", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 137.79527999999999, 
+        "stid": "MJWA2"
+    }, 
+    "SNEA2": {
+        "api_elev": 59.0, 
+        "delta_api": 107562.28427999999, 
+        "latitiude": "58.14200", 
+        "longitude": "-133.72701", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": -107503.28427999999, 
+        "stid": "SNEA2"
+    }, 
+    "TRMA2": {
+        "api_elev": 1760.0, 
+        "delta_api": 1494.2519600000001, 
+        "latitiude": "58.29650", 
+        "longitude": "-134.38710", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 265.74804, 
+        "stid": "TRMA2"
+    }
+}

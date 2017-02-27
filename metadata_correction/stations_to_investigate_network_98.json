@@ -1,0 +1,11 @@
+{
+    "KY080": {
+        "api_elev": 871.0, 
+        "delta_api": 188.58528000000001, 
+        "latitiude": "36.99725", 
+        "longitude": "-84.60757", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 682.41471999999999, 
+        "stid": "KY080"
+    }
+}

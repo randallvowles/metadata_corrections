@@ -1,0 +1,11 @@
+{
+    "WNJ30": {
+        "api_elev": 171.0, 
+        "delta_api": 128.34908000000001, 
+        "latitiude": "29.558253", 
+        "longitude": "-95.088772", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 42.650919999999999, 
+        "stid": "WNJ30"
+    }
+}

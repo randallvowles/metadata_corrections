@@ -1,0 +1,155 @@
+{
+    "COOPAYMA2": {
+        "api_elev": 1500.0, 
+        "delta_api": 1500.0, 
+        "latitiude": "60.96", 
+        "longitude": "-149.09", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "COOPAYMA2"
+    }, 
+    "COOPAYTA2": {
+        "api_elev": 2750.0, 
+        "delta_api": 2750.0, 
+        "latitiude": "60.96", 
+        "longitude": "-149.07", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "COOPAYTA2"
+    }, 
+    "COOPBKFC2": {
+        "api_elev": 7500.0, 
+        "delta_api": 354.33047999999962, 
+        "latitiude": "39.09", 
+        "longitude": "-104.48", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 7145.6695200000004, 
+        "stid": "COOPBKFC2"
+    }, 
+    "COOPDAVA1": {
+        "api_elev": 730.0, 
+        "delta_api": 126.32543999999996, 
+        "latitiude": "32.82", 
+        "longitude": "-85.75", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 603.67456000000004, 
+        "stid": "COOPDAVA1"
+    }, 
+    "COOPDWLA2": {
+        "api_elev": 2210.0, 
+        "delta_api": 1009.41752, 
+        "latitiude": "63.49", 
+        "longitude": "-150.87", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 1200.58248, 
+        "stid": "COOPDWLA2"
+    }, 
+    "COOPECBA2": {
+        "api_elev": 1200.0, 
+        "delta_api": 865.35432000000003, 
+        "latitiude": "58.27", 
+        "longitude": "-134.50", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 334.64567999999997, 
+        "stid": "COOPECBA2"
+    }, 
+    "COOPJRAW2": {
+        "api_elev": 1550.0, 
+        "delta_api": 221.25980000000004, 
+        "latitiude": "39.43", 
+        "longitude": "-79.12", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1328.7402, 
+        "stid": "COOPJRAW2"
+    }, 
+    "COOPLCPM5": {
+        "api_elev": 782.0, 
+        "delta_api": 102.86612000000002, 
+        "latitiude": "43.83", 
+        "longitude": "-91.31", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 679.13387999999998, 
+        "stid": "COOPLCPM5"
+    }, 
+    "COOPMCCN8": {
+        "api_elev": 1676.0, 
+        "delta_api": 150.40940000000001, 
+        "latitiude": "47.60", 
+        "longitude": "-98.59", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1525.5906, 
+        "stid": "COOPMCCN8"
+    }, 
+    "COOPMDDV2": {
+        "api_elev": 510.0, 
+        "delta_api": 155.66928000000001, 
+        "latitiude": "38.98", 
+        "longitude": "-77.78", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 354.33071999999999, 
+        "stid": "COOPMDDV2"
+    }, 
+    "COOPMRDM6": {
+        "api_elev": 500.0, 
+        "delta_api": 165.35432000000003, 
+        "latitiude": "32.48", 
+        "longitude": "-88.80", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 334.64567999999997, 
+        "stid": "COOPMRDM6"
+    }, 
+    "COOPONIS2": {
+        "api_elev": 2100.0, 
+        "delta_api": 256.16792000000009, 
+        "latitiude": "44.77", 
+        "longitude": "-99.93", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1843.8320799999999, 
+        "stid": "COOPONIS2"
+    }, 
+    "COOPRHTS2": {
+        "api_elev": 1950.0, 
+        "delta_api": 237.40152000000012, 
+        "latitiude": "44.52", 
+        "longitude": "-99.21", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1712.5984799999999, 
+        "stid": "COOPRHTS2"
+    }, 
+    "COOPRNMT1": {
+        "api_elev": 2870.0, 
+        "delta_api": 1780.7611200000001, 
+        "latitiude": "36.18", 
+        "longitude": "-83.05", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1089.2388799999999, 
+        "stid": "COOPRNMT1"
+    }, 
+    "COOPWISN8": {
+        "api_elev": 2200.0, 
+        "delta_api": 113.38576000000012, 
+        "latitiude": "46.27", 
+        "longitude": "-99.66", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2086.6142399999999, 
+        "stid": "COOPWISN8"
+    }, 
+    "COOPWTRM2": {
+        "api_elev": 750.0, 
+        "delta_api": 300.52492000000001, 
+        "latitiude": "39.58", 
+        "longitude": "-77.00", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 449.47507999999999, 
+        "stid": "COOPWTRM2"
+    }, 
+    "COOPXFLN8": {
+        "api_elev": 1800.0, 
+        "delta_api": 159.57999999999993, 
+        "latitiude": "48.25", 
+        "longitude": "-99.50", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1640.4200000000001, 
+        "stid": "COOPXFLN8"
+    }
+}

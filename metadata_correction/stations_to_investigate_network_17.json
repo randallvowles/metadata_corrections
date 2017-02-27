@@ -1,0 +1,56 @@
+{
+    "CBGC1": {
+        "api_elev": 1624.0, 
+        "delta_api": 508.51440000000002, 
+        "latitiude": "33.9167", 
+        "longitude": "-117.7833", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1115.4856, 
+        "stid": "CBGC1"
+    }, 
+    "MWSC1": {
+        "api_elev": 5710.0, 
+        "delta_api": 211.3121600000004, 
+        "latitiude": "34.2308", 
+        "longitude": "-118.0711", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5498.6878399999996, 
+        "stid": "MWSC1"
+    }, 
+    "OXFIG": {
+        "api_elev": 3200.0, 
+        "delta_api": 621.25975999999991, 
+        "latitiude": "34.7514", 
+        "longitude": "-120.0072", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2578.7402400000001, 
+        "stid": "OXFIG"
+    }, 
+    "OXSIM": {
+        "api_elev": 914.0, 
+        "delta_api": 136.44092000000001, 
+        "latitiude": "34.28", 
+        "longitude": "-118.82", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 777.55907999999999, 
+        "stid": "OXSIM"
+    }, 
+    "SBTC1": {
+        "api_elev": 5300.0, 
+        "delta_api": 385.30167999999958, 
+        "latitiude": "34.77056", 
+        "longitude": "-119.65194", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4914.6983200000004, 
+        "stid": "SBTC1"
+    }, 
+    "SMNC1": {
+        "api_elev": 660.0, 
+        "delta_api": 102.25720000000001, 
+        "latitiude": "34.28278", 
+        "longitude": "-119.09333", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 557.74279999999999, 
+        "stid": "SMNC1"
+    }
+}

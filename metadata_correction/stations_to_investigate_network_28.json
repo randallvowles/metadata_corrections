@@ -1,0 +1,29 @@
+{
+    "MMCB": {
+        "api_elev": 5308.0, 
+        "delta_api": 1078.9972399999997, 
+        "latitiude": "18.83396", 
+        "longitude": "-99.26199", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4229.0027600000003, 
+        "stid": "MMCB"
+    }, 
+    "MMIT": {
+        "api_elev": 200.0, 
+        "delta_api": 124.54067999999999, 
+        "latitiude": "16.45", 
+        "longitude": "-95.08333", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 75.459320000000005, 
+        "stid": "MMIT"
+    }, 
+    "MMSD": {
+        "api_elev": 358.0, 
+        "delta_api": 187.39632, 
+        "latitiude": "23.15", 
+        "longitude": "-109.7", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 170.60368, 
+        "stid": "MMSD"
+    }
+}

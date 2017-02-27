@@ -1,0 +1,11 @@
+{
+    "TTANN": {
+        "api_elev": 814.0, 
+        "delta_api": 262.81888000000004, 
+        "latitiude": "47.473", 
+        "longitude": "-121.742", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 551.18111999999996, 
+        "stid": "TTANN"
+    }
+}

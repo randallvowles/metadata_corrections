@@ -1,0 +1,83 @@
+{
+    "ARRA2": {
+        "api_elev": 3700.0, 
+        "delta_api": 3700.0, 
+        "latitiude": "60.613", 
+        "longitude": "-149.0997", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "ARRA2"
+    }, 
+    "MPSA2": {
+        "api_elev": 467.0, 
+        "delta_api": 467.0, 
+        "latitiude": "60.49222", 
+        "longitude": "-149.35972", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "MPSA2"
+    }, 
+    "PGPA2": {
+        "api_elev": 4200.0, 
+        "delta_api": 4200.0, 
+        "latitiude": "60.9652", 
+        "longitude": "-149.3754", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PGPA2"
+    }, 
+    "PWRA2": {
+        "api_elev": 420.0, 
+        "delta_api": 420.0, 
+        "latitiude": "60.59360", 
+        "longitude": "-145.57927", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PWRA2"
+    }, 
+    "SCTAK": {
+        "api_elev": 3681.0, 
+        "delta_api": 3681.0, 
+        "latitiude": "60.68357", 
+        "longitude": "-145.13606", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "SCTAK"
+    }, 
+    "STWA2": {
+        "api_elev": 3700.0, 
+        "delta_api": 3700.0, 
+        "latitiude": "60.547", 
+        "longitude": "-149.5349", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "STWA2"
+    }, 
+    "SUMA2": {
+        "api_elev": 3800.0, 
+        "delta_api": 3800.0, 
+        "latitiude": "60.6321", 
+        "longitude": "-149.5421", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "SUMA2"
+    }, 
+    "UWI01": {
+        "api_elev": 1047.0, 
+        "delta_api": 138.20731999999998, 
+        "latitiude": "43.07080", 
+        "longitude": "-89.40684", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 908.79268000000002, 
+        "stid": "UWI01"
+    }, 
+    "VDZAK": {
+        "api_elev": 6001.0, 
+        "delta_api": 6001.0, 
+        "latitiude": "61.23691", 
+        "longitude": "-146.24762", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "VDZAK"
+    }
+}

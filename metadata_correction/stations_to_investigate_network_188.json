@@ -1,0 +1,11 @@
+{
+    "ANMN6": {
+        "api_elev": 169.0, 
+        "delta_api": 109.94488, 
+        "latitiude": "42.01833", 
+        "longitude": "-73.91694", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 59.055120000000002, 
+        "stid": "ANMN6"
+    }
+}

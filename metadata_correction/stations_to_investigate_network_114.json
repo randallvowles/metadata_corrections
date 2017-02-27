@@ -1,0 +1,38 @@
+{
+    "HUNDR": {
+        "api_elev": 686.0, 
+        "delta_api": 259.49079999999998, 
+        "latitiude": "45.920", 
+        "longitude": "-119.800", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 426.50920000000002, 
+        "stid": "HUNDR"
+    }, 
+    "MALOT": {
+        "api_elev": 1329.0, 
+        "delta_api": 206.95272, 
+        "latitiude": "48.3047", 
+        "longitude": "-119.6838", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1122.04728, 
+        "stid": "MALOT"
+    }, 
+    "POMON": {
+        "api_elev": 1362.0, 
+        "delta_api": 118.5616399999999, 
+        "latitiude": "46.690", 
+        "longitude": "-120.472", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1243.4383600000001, 
+        "stid": "POMON"
+    }, 
+    "WSUPU": {
+        "api_elev": 200.0, 
+        "delta_api": 150.78739999999999, 
+        "latitiude": "47.188", 
+        "longitude": "-122.327", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 49.212600000000002, 
+        "stid": "WSUPU"
+    }
+}

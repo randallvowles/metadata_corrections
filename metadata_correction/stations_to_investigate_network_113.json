@@ -1,0 +1,20 @@
+{
+    "OXGOL": {
+        "api_elev": 164.0, 
+        "delta_api": 101.66404, 
+        "latitiude": "34.445528", 
+        "longitude": "-119.827875", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 62.33596, 
+        "stid": "OXGOL"
+    }, 
+    "OXPAR": {
+        "api_elev": 1795.0, 
+        "delta_api": 525.31492000000003, 
+        "latitiude": "34.541447", 
+        "longitude": "-119.790483", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1269.68508, 
+        "stid": "OXPAR"
+    }
+}

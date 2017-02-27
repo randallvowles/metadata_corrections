@@ -1,0 +1,11 @@
+{
+    "PORA3": {
+        "api_elev": 4967.0, 
+        "delta_api": 895.47755999999981, 
+        "latitiude": "31.35222", 
+        "longitude": "-111.01500", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4071.5224400000002, 
+        "stid": "PORA3"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "CISCO": {
+        "api_elev": 6620.0, 
+        "delta_api": 202.67695999999978, 
+        "latitiude": "39.30611", 
+        "longitude": "-120.56278", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6417.3230400000002, 
+        "stid": "CISCO"
+    }, 
+    "KGVAL": {
+        "api_elev": 6230.0, 
+        "delta_api": 167.00767999999971, 
+        "latitiude": "39.31583", 
+        "longitude": "-120.45556", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6062.9923200000003, 
+        "stid": "KGVAL"
+    }, 
+    "NTHO": {
+        "api_elev": 6450.0, 
+        "delta_api": 150.78719999999976, 
+        "latitiude": "39.17083", 
+        "longitude": "-120.14528", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6299.2128000000002, 
+        "stid": "NTHO"
+    }, 
+    "SLIDE": {
+        "api_elev": 9650.0, 
+        "delta_api": 138.84483999999975, 
+        "latitiude": " 39.30722", 
+        "longitude": "-119.88389", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9511.1551600000003, 
+        "stid": "SLIDE"
+    }, 
+    "UCYL": {
+        "api_elev": 6912.0, 
+        "delta_api": 6492.0524800000003, 
+        "latitiude": "36.94889", 
+        "longitude": "122.06639", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 419.94752, 
+        "stid": "UCYL"
+    }
+}

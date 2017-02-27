@@ -1,0 +1,92 @@
+{
+    "OH012": {
+        "api_elev": 1036.0, 
+        "delta_api": 186.26243999999997, 
+        "latitiude": "39.74328", 
+        "longitude": "-82.67781", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 849.73756000000003, 
+        "stid": "OH012"
+    }, 
+    "OH035": {
+        "api_elev": 1181.0, 
+        "delta_api": 547.79787999999996, 
+        "latitiude": "39.65839", 
+        "longitude": "-80.86969", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 633.20212000000004, 
+        "stid": "OH035"
+    }, 
+    "OH037": {
+        "api_elev": 760.0, 
+        "delta_api": 107.11284000000001, 
+        "latitiude": "39.12922", 
+        "longitude": "-82.37724", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 652.88715999999999, 
+        "stid": "OH037"
+    }, 
+    "OH042": {
+        "api_elev": 1123.0, 
+        "delta_api": 352.00260000000003, 
+        "latitiude": "40.33707", 
+        "longitude": "-80.61180", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 770.99739999999997, 
+        "stid": "OH042"
+    }, 
+    "OH062": {
+        "api_elev": 765.0, 
+        "delta_api": 108.83199999999999, 
+        "latitiude": "39.23725", 
+        "longitude": "-84.29580", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 656.16800000000001, 
+        "stid": "OH062"
+    }, 
+    "OH067": {
+        "api_elev": 906.0, 
+        "delta_api": 121.87923999999998, 
+        "latitiude": "40.12678", 
+        "longitude": "-82.12727", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 784.12076000000002, 
+        "stid": "OH067"
+    }, 
+    "OH088": {
+        "api_elev": 974.0, 
+        "delta_api": 127.54327999999998, 
+        "latitiude": "40.08308", 
+        "longitude": "-82.90881", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 846.45672000000002, 
+        "stid": "OH088"
+    }, 
+    "OH106": {
+        "api_elev": 882.0, 
+        "delta_api": 209.42780000000005, 
+        "latitiude": "39.60155", 
+        "longitude": "-82.95251", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 672.57219999999995, 
+        "stid": "OH106"
+    }, 
+    "OH133": {
+        "api_elev": 719.0, 
+        "delta_api": 144.85299999999995, 
+        "latitiude": "41.63863", 
+        "longitude": "-83.28771", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 574.14700000000005, 
+        "stid": "OH133"
+    }, 
+    "OH167": {
+        "api_elev": 1040.0, 
+        "delta_api": 203.38580000000002, 
+        "latitiude": "41.66300", 
+        "longitude": "-81.26362", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 836.61419999999998, 
+        "stid": "OH167"
+    }
+}

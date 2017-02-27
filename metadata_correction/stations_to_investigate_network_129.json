@@ -1,0 +1,65 @@
+{
+    "GUM02": {
+        "api_elev": 604.0, 
+        "delta_api": 604.0, 
+        "latitiude": "14.17519", 
+        "longitude": "145.24412", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "GUM02"
+    }, 
+    "GUM03": {
+        "api_elev": 262.0, 
+        "delta_api": 262.0, 
+        "latitiude": "14.9978", 
+        "longitude": "145.61789", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "GUM03"
+    }, 
+    "PPG01": {
+        "api_elev": 175.0, 
+        "delta_api": 175.0, 
+        "latitiude": "-14.2474", 
+        "longitude": "-170.5645", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PPG01"
+    }, 
+    "PPG02": {
+        "api_elev": 400.0, 
+        "delta_api": 400.0, 
+        "latitiude": "-14.3217", 
+        "longitude": "-170.8379", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PPG02"
+    }, 
+    "PPG05": {
+        "api_elev": 105.0, 
+        "delta_api": 105.0, 
+        "latitiude": "-14.2147", 
+        "longitude": "-169.4261", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PPG05"
+    }, 
+    "PPG08": {
+        "api_elev": 110.0, 
+        "delta_api": 110.0, 
+        "latitiude": "-14.0452", 
+        "longitude": "-171.4431", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PPG08"
+    }, 
+    "PPG10": {
+        "api_elev": 491.0, 
+        "delta_api": 491.0, 
+        "latitiude": "-13.7343", 
+        "longitude": "-172.3936", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 0, 
+        "stid": "PPG10"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "NY003": {
+        "api_elev": 413.0, 
+        "delta_api": 101.3202, 
+        "latitiude": "42.49557", 
+        "longitude": "-73.68323", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 311.6798, 
+        "stid": "NY003"
+    }, 
+    "NY008": {
+        "api_elev": 387.0, 
+        "delta_api": 144.21784, 
+        "latitiude": "43.30851", 
+        "longitude": "-77.72576", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 242.78216, 
+        "stid": "NY008"
+    }
+}

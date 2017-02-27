@@ -1,0 +1,11 @@
+{
+    "001NH": {
+        "api_elev": 1207.0, 
+        "delta_api": 311.33068000000003, 
+        "latitiude": "44.06239", 
+        "longitude": "-71.68782", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 895.66931999999997, 
+        "stid": "001NH"
+    }
+}

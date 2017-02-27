@@ -1,0 +1,11 @@
+{
+    "NNXT2": {
+        "api_elev": 1481.0, 
+        "delta_api": 158.82148000000007, 
+        "latitiude": "31.10277", 
+        "longitude": "-98.39611", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1322.1785199999999, 
+        "stid": "NNXT2"
+    }
+}

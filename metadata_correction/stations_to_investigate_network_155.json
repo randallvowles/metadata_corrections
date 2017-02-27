@@ -1,0 +1,20 @@
+{
+    "DC001": {
+        "api_elev": 232.0, 
+        "delta_api": 172.94488000000001, 
+        "latitiude": "38.89350", 
+        "longitude": "-77.03270", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 59.055120000000002, 
+        "stid": "DC001"
+    }, 
+    "DC008": {
+        "api_elev": 305.0, 
+        "delta_api": 183.60892000000001, 
+        "latitiude": "38.91720", 
+        "longitude": "-77.03250", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 121.39108, 
+        "stid": "DC008"
+    }
+}

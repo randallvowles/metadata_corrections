@@ -1,0 +1,11 @@
+{
+    "MSGRB": {
+        "api_elev": 8000.0, 
+        "delta_api": 181.75828000000001, 
+        "latitiude": "41.3456", 
+        "longitude": "-122.1944", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 7818.24172, 
+        "stid": "MSGRB"
+    }
+}

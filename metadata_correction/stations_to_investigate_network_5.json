@@ -1,0 +1,65 @@
+{
+    "ARC": {
+        "api_elev": 5290.0, 
+        "delta_api": 851.78116000000045, 
+        "latitiude": "43.62455", 
+        "longitude": "-113.29710", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4438.2188399999995, 
+        "stid": "ARC"
+    }, 
+    "BAS": {
+        "api_elev": 4900.0, 
+        "delta_api": 406.01640000000043, 
+        "latitiude": "43.67753", 
+        "longitude": "-113.00603", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4493.9835999999996, 
+        "stid": "BAS"
+    }, 
+    "BIG": {
+        "api_elev": 5200.0, 
+        "delta_api": 1001.2416000000003, 
+        "latitiude": "43.29417", 
+        "longitude": "-113.18128", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4198.7583999999997, 
+        "stid": "BIG"
+    }, 
+    "CRA": {
+        "api_elev": 5996.0, 
+        "delta_api": 1787.4007600000004, 
+        "latitiude": "43.42918", 
+        "longitude": "-113.53830", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4208.5992399999996, 
+        "stid": "CRA"
+    }, 
+    "DEA": {
+        "api_elev": 5108.0, 
+        "delta_api": 663.22060000000056, 
+        "latitiude": "43.62507", 
+        "longitude": "-113.05978", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4444.7793999999994, 
+        "stid": "DEA"
+    }, 
+    "LOS": {
+        "api_elev": 4980.0, 
+        "delta_api": 128.46588000000065, 
+        "latitiude": "43.54868", 
+        "longitude": "-113.00990", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4851.5341199999993, 
+        "stid": "LOS"
+    }, 
+    "SUM": {
+        "api_elev": 7576.0, 
+        "delta_api": 3449.4077600000001, 
+        "latitiude": "43.39633", 
+        "longitude": "-113.02185", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4126.5922399999999, 
+        "stid": "SUM"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "E370": {
+        "api_elev": 2861.0, 
+        "delta_api": 219.92380000000003, 
+        "latitiude": "34.89290", 
+        "longitude": "-118.00070", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2641.0762, 
+        "stid": "E370"
+    }
+}

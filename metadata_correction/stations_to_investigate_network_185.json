@@ -1,0 +1,11 @@
+{
+    "E470G": {
+        "api_elev": 5507.0, 
+        "delta_api": 159.23080000000027, 
+        "latitiude": "39.85431", 
+        "longitude": "-104.74670", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5347.7691999999997, 
+        "stid": "E470G"
+    }
+}

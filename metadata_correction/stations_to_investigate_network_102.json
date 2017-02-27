@@ -1,0 +1,11 @@
+{
+    "NE033": {
+        "api_elev": 4572.0, 
+        "delta_api": 100.21507999999994, 
+        "latitiude": "42.34171", 
+        "longitude": "-103.27242", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4471.7849200000001, 
+        "stid": "NE033"
+    }
+}

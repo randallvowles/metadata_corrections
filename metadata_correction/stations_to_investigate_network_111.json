@@ -1,0 +1,11 @@
+{
+    "PKC": {
+        "api_elev": 10024.0, 
+        "delta_api": 155.23328000000038, 
+        "latitiude": "40.6135", 
+        "longitude": "-111.5395", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9868.7667199999996, 
+        "stid": "PKC"
+    }
+}

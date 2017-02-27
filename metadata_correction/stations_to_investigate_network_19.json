@@ -1,0 +1,11 @@
+{
+    "CUPH": {
+        "api_elev": 5725.0, 
+        "delta_api": 134.44863999999961, 
+        "latitiude": "40.19", 
+        "longitude": "-110.44", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5590.5513600000004, 
+        "stid": "CUPH"
+    }
+}

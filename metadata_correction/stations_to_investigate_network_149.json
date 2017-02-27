@@ -1,0 +1,74 @@
+{
+    "WV002": {
+        "api_elev": 895.0, 
+        "delta_api": 232.27031999999997, 
+        "latitiude": "38.41335", 
+        "longitude": "-81.63170", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 662.72968000000003, 
+        "stid": "WV002"
+    }, 
+    "WV004": {
+        "api_elev": 970.0, 
+        "delta_api": 333.51703999999995, 
+        "latitiude": "38.38668", 
+        "longitude": "-81.76884", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 636.48296000000005, 
+        "stid": "WV004"
+    }, 
+    "WV006": {
+        "api_elev": 924.0, 
+        "delta_api": 156.28344000000004, 
+        "latitiude": "38.45592", 
+        "longitude": "-81.90540", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 767.71655999999996, 
+        "stid": "WV006"
+    }, 
+    "WV007": {
+        "api_elev": 781.0, 
+        "delta_api": 157.6404, 
+        "latitiude": "38.43942", 
+        "longitude": "-82.12205", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 623.3596, 
+        "stid": "WV007"
+    }, 
+    "WV008": {
+        "api_elev": 751.0, 
+        "delta_api": 163.72964000000002, 
+        "latitiude": "38.43657", 
+        "longitude": "-82.16406", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 587.27035999999998, 
+        "stid": "WV008"
+    }, 
+    "WV013": {
+        "api_elev": 1386.0, 
+        "delta_api": 168.80835999999999, 
+        "latitiude": "39.27861", 
+        "longitude": "-80.28500", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1217.19164, 
+        "stid": "WV013"
+    }, 
+    "WV016": {
+        "api_elev": 1957.0, 
+        "delta_api": 109.88707999999997, 
+        "latitiude": "39.65833", 
+        "longitude": "-79.53305", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1847.11292, 
+        "stid": "WV016"
+    }, 
+    "WV024": {
+        "api_elev": 2527.0, 
+        "delta_api": 299.30963999999994, 
+        "latitiude": "37.89036", 
+        "longitude": "-80.57928", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2227.6903600000001, 
+        "stid": "WV024"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "0030": {
+        "api_elev": 775.0, 
+        "delta_api": 164.76376000000005, 
+        "latitiude": "43.50000", 
+        "longitude": "-83.00000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 610.23623999999995, 
+        "stid": "0030"
+    }, 
+    "AMAA2": {
+        "api_elev": 109.0, 
+        "delta_api": 109.0, 
+        "latitiude": "58.92000", 
+        "longitude": "-151.95000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "AMAA2"
+    }, 
+    "PTGC1": {
+        "api_elev": 106.0, 
+        "delta_api": 106.0, 
+        "latitiude": "34.58000", 
+        "longitude": "-120.65000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "PTGC1"
+    }, 
+    "TTIW1": {
+        "api_elev": 101.0, 
+        "delta_api": 101.0, 
+        "latitiude": "48.39000", 
+        "longitude": "-124.74000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 0.0, 
+        "stid": "TTIW1"
+    }
+}

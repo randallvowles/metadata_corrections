@@ -1,0 +1,20 @@
+{
+    "GISM4": {
+        "api_elev": 690.0, 
+        "delta_api": 102.72964000000002, 
+        "latitiude": "46.72043", 
+        "longitude": "-87.41193", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 587.27035999999998, 
+        "stid": "GISM4"
+    }, 
+    "PRIM4": {
+        "api_elev": 715.0, 
+        "delta_api": 140.85299999999995, 
+        "latitiude": "45.36700", 
+        "longitude": "-83.50000", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 574.14700000000005, 
+        "stid": "PRIM4"
+    }
+}

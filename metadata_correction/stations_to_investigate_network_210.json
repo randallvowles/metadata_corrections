@@ -1,0 +1,11 @@
+{
+    "GA325": {
+        "api_elev": 1398.0, 
+        "delta_api": 118.47240000000011, 
+        "latitiude": "34.685037", 
+        "longitude": "-84.473070", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1279.5275999999999, 
+        "stid": "GA325"
+    }
+}

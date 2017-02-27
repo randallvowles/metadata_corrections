@@ -1,0 +1,11 @@
+{
+    "BKCA2": {
+        "api_elev": 2430.0, 
+        "delta_api": 622.56572000000006, 
+        "latitiude": "63.52090", 
+        "longitude": "-145.84080", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 1807.4342799999999, 
+        "stid": "BKCA2"
+    }
+}

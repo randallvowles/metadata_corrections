@@ -1,0 +1,11 @@
+{
+    "HRLW3": {
+        "api_elev": 1370.0, 
+        "delta_api": 185.61676000000011, 
+        "latitiude": "46.49273", 
+        "longitude": "-90.26736", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1184.3832399999999, 
+        "stid": "HRLW3"
+    }
+}

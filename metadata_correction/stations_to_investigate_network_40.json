@@ -1,0 +1,38 @@
+{
+    "PUYSO": {
+        "api_elev": 440.0, 
+        "delta_api": 305.48555999999996, 
+        "latitiude": "47.22", 
+        "longitude": "-122.3", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 134.51444000000001, 
+        "stid": "PUYSO"
+    }, 
+    "SOMTN": {
+        "api_elev": 2999.0, 
+        "delta_api": 259.4985999999999, 
+        "latitiude": "47.32", 
+        "longitude": "-123.35", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2739.5014000000001, 
+        "stid": "SOMTN"
+    }, 
+    "UWASH": {
+        "api_elev": 190.0, 
+        "delta_api": 107.979, 
+        "latitiude": "47.65", 
+        "longitude": "-122.31", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 82.021000000000001, 
+        "stid": "UWASH"
+    }, 
+    "WOODI": {
+        "api_elev": 135.0, 
+        "delta_api": 128.43832, 
+        "latitiude": "45.89", 
+        "longitude": "-122.79", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6.56168, 
+        "stid": "WOODI"
+    }
+}

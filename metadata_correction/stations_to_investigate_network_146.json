@@ -1,0 +1,11 @@
+{
+    "RW001": {
+        "api_elev": 4720.0, 
+        "delta_api": 176.03660000000036, 
+        "latitiude": "39.526100", 
+        "longitude": "-119.813442", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4543.9633999999996, 
+        "stid": "RW001"
+    }
+}

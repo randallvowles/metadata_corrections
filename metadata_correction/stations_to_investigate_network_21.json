@@ -1,0 +1,56 @@
+{
+    "MAGB": {
+        "api_elev": 1560.0, 
+        "delta_api": 113.14956000000006, 
+        "latitiude": "33.24", 
+        "longitude": "-113.2", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1446.8504399999999, 
+        "stid": "MAGB"
+    }, 
+    "MAHB": {
+        "api_elev": 6699.0, 
+        "delta_api": 983.77671999999984, 
+        "latitiude": "34.14", 
+        "longitude": "-112.27", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5715.2232800000002, 
+        "stid": "MAHB"
+    }, 
+    "MAHM": {
+        "api_elev": 5197.0, 
+        "delta_api": 521.80299999999988, 
+        "latitiude": "33.97", 
+        "longitude": "-111.79", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4675.1970000000001, 
+        "stid": "MAHM"
+    }, 
+    "MAMF": {
+        "api_elev": 1750.0, 
+        "delta_api": 142.38840000000005, 
+        "latitiude": "33.12", 
+        "longitude": "-111.4", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1607.6116, 
+        "stid": "MAMF"
+    }, 
+    "MAMU": {
+        "api_elev": 7493.0, 
+        "delta_api": 104.54831999999988, 
+        "latitiude": "34.41", 
+        "longitude": "-112.41", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 7388.4516800000001, 
+        "stid": "MAMU"
+    }, 
+    "MATP": {
+        "api_elev": 3993.0, 
+        "delta_api": 1407.6980800000001, 
+        "latitiude": "33.64", 
+        "longitude": "-111.82", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2585.3019199999999, 
+        "stid": "MATP"
+    }
+}

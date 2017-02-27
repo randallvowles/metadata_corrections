@@ -1,0 +1,11 @@
+{
+    "KDGS": {
+        "api_elev": 6286.0, 
+        "delta_api": 173.79507999999987, 
+        "latitiude": "43.7305", 
+        "longitude": "-111.1125", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6112.2049200000001, 
+        "stid": "KDGS"
+    }
+}

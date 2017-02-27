@@ -1,0 +1,11 @@
+{
+    "SUMAM": {
+        "api_elev": 8643.0, 
+        "delta_api": 162.02859999999964, 
+        "latitiude": "39.150829", 
+        "longitude": "-120.248295", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 8480.9714000000004, 
+        "stid": "SUMAM"
+    }
+}

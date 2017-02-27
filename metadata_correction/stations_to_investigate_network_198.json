@@ -1,0 +1,11 @@
+{
+    "RBKFC": {
+        "api_elev": 7146.0, 
+        "delta_api": 505.57984000000033, 
+        "latitiude": "40.81012", 
+        "longitude": "-111.76695", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 6640.4201599999997, 
+        "stid": "RBKFC"
+    }
+}

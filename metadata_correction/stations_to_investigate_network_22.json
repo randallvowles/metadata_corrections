@@ -1,0 +1,20 @@
+{
+    "EKSNV": {
+        "api_elev": 5787.0, 
+        "delta_api": 111.14680000000044, 
+        "latitiude": " 40.80340", 
+        "longitude": "-115.71790", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5675.8531999999996, 
+        "stid": "EKSNV"
+    }, 
+    "HDMNV": {
+        "api_elev": 1436.0, 
+        "delta_api": 271.30179999999996, 
+        "latitiude": "36.01313", 
+        "longitude": "-114.74303", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 1164.6982, 
+        "stid": "HDMNV"
+    }
+}

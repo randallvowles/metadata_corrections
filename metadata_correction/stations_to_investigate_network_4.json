@@ -1,0 +1,83 @@
+{
+    "CSC": {
+        "api_elev": 10875.0, 
+        "delta_api": 241.79756000000089, 
+        "latitiude": "40.312604", 
+        "longitude": "-111.588704", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 10633.202439999999, 
+        "stid": "CSC"
+    }, 
+    "HO1": {
+        "api_elev": 5420.0, 
+        "delta_api": 557.79511999999977, 
+        "latitiude": "41.134", 
+        "longitude": "-111.783", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4862.2048800000002, 
+        "stid": "HO1"
+    }, 
+    "HOR": {
+        "api_elev": 5420.0, 
+        "delta_api": 557.79511999999977, 
+        "latitiude": "41.134", 
+        "longitude": "-111.783", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4862.2048800000002, 
+        "stid": "HOR"
+    }, 
+    "PW1": {
+        "api_elev": 5801.0, 
+        "delta_api": 1004.4119200000005, 
+        "latitiude": "41.139", 
+        "longitude": "-111.887", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4796.5880799999995, 
+        "stid": "PW1"
+    }, 
+    "RDN": {
+        "api_elev": 5699.0, 
+        "delta_api": 108.44863999999961, 
+        "latitiude": "39.9890", 
+        "longitude": "-111.3701", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5590.5513600000004, 
+        "stid": "RDN"
+    }, 
+    "UT18": {
+        "api_elev": 4400.0, 
+        "delta_api": 167.71640000000025, 
+        "latitiude": "40.7813", 
+        "longitude": "-111.9105", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4232.2835999999998, 
+        "stid": "UT18"
+    }, 
+    "UT19": {
+        "api_elev": 4400.0, 
+        "delta_api": 167.71640000000025, 
+        "latitiude": "40.7813", 
+        "longitude": "-111.9105", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4232.2835999999998, 
+        "stid": "UT19"
+    }, 
+    "UT22": {
+        "api_elev": 4400.0, 
+        "delta_api": 141.46968000000015, 
+        "latitiude": "40.72439", 
+        "longitude": "-111.913946", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4258.5303199999998, 
+        "stid": "UT22"
+    }, 
+    "UT24": {
+        "api_elev": 4400.0, 
+        "delta_api": 141.46968000000015, 
+        "latitiude": "40.72440", 
+        "longitude": "-111.9136", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4258.5303199999998, 
+        "stid": "UT24"
+    }
+}

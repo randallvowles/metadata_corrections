@@ -1,0 +1,11 @@
+{
+    "BPSML": {
+        "api_elev": 1058.0, 
+        "delta_api": 119.67975999999999, 
+        "latitiude": "45.63360", 
+        "longitude": "-121.26700", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 938.32024000000001, 
+        "stid": "BPSML"
+    }
+}

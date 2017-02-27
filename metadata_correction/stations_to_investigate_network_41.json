@@ -1,0 +1,20 @@
+{
+    "ITD77": {
+        "api_elev": 5745.0, 
+        "delta_api": 1598.7260800000004, 
+        "latitiude": "43.40556", 
+        "longitude": "-113.62707", 
+        "resolve_method_used": "1km_dem", 
+        "resolved_elev": 4146.2739199999996, 
+        "stid": "ITD77"
+    }, 
+    "ITDC7": {
+        "api_elev": 2624.0, 
+        "delta_api": 176.49335999999994, 
+        "latitiude": "45.29480", 
+        "longitude": "-116.35820", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 2447.5066400000001, 
+        "stid": "ITDC7"
+    }
+}

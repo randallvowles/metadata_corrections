@@ -1,0 +1,11 @@
+{
+    "BDIC2": {
+        "api_elev": 5262.0, 
+        "delta_api": 327.61664000000019, 
+        "latitiude": "40.02600", 
+        "longitude": "-104.82400", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 4934.3833599999998, 
+        "stid": "BDIC2"
+    }
+}

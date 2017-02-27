@@ -1,0 +1,29 @@
+{
+    "C1": {
+        "api_elev": 9911.0, 
+        "delta_api": 196.43275999999969, 
+        "latitiude": "40.03583", 
+        "longitude": "-105.53580", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9714.5672400000003, 
+        "stid": "C1"
+    }, 
+    "SPMD": {
+        "api_elev": 9660.0, 
+        "delta_api": 188.21492000000035, 
+        "latitiude": "39.27", 
+        "longitude": "-105.62", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 9471.7850799999997, 
+        "stid": "SPMD"
+    }, 
+    "SRRL": {
+        "api_elev": 6001.0, 
+        "delta_api": 141.41975999999977, 
+        "latitiude": "39.74", 
+        "longitude": "-105.18", 
+        "resolve_method_used": "30m_dem", 
+        "resolved_elev": 5859.5802400000002, 
+        "stid": "SRRL"
+    }
+}
