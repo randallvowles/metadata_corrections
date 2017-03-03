@@ -80,7 +80,7 @@
         (Object.keys(json)).map(function (d) {
             json[d]["urlLink"] = googleURL + String(json[d]["latitiude"]) + "+" + String(json[d]["longitude"])
             var delta_prime = json[d]["api_elev"] - (json[d]["delta_api"] / 3.28084)
-            if (delta_prime < 10){
+            if (delta_prime < 100){
                 json[d]["elev_m_ft"] = [json[d]["api_elev"] * 3.28084, delta_prime]
             } else {
                 json[d]["elev_m_ft"] = json[d]["api_elev"] * 3.28084
@@ -145,7 +145,7 @@
             .classed("urlLink", true);
         d3.select("tbody").selectAll("td").classed("bang", function (d) {
             try {
-                return d[1].value.length > 1 && d.name === "elev_m_ft" ? true : false;
+                return d.value[1] < 100 && d.name === "elev_m_ft" ? true : false;
             } catch (e) {
                 console.log(d.value)
             }
